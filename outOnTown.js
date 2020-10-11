@@ -5,7 +5,7 @@ amount and show new total. If user is out of funds, message that
 to user. Use functions, display info neatly
 */
 
-// variables, account balance
+// variables
 let accountBalance = 40;
 let movie = 14.75; 
 let popcorn = 11.25;
