@@ -70,5 +70,6 @@ function townRun() {
 }
 
 townRun(townList);
-// checkBalance()
+
+// Testing a Git update, that's all.
 
